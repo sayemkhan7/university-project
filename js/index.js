@@ -2,10 +2,11 @@
 const products = [
   { id: 1, name: ' Shoes', price: 49.99, image: 'assets/shes.jpg', alt: 'Dress Shoes' },
   { id: 2, name: ' Pants', price: 39.50, image: 'assets/pant.jpg'},
-  { id: 3, name: 'watch', price: 29.99, image: 'assets/watch.jpg'},
-  { id: 4, name: 'sunglasses', price: 59.99, image:'assets/sunglass.jpg'},
-  { id: 5, name: 'Shirt', price: 45.00, image:'assets/shirt.jpg'},
+  { id: 3, name: 'Watchs', price: 29.99, image: 'assets/watch.jpg'},
+  { id: 4, name: 'Sunglasses', price: 59.99, image:'assets/sunglass.jpg'},
+  { id: 5, name: 'Shirts', price: 45.00, image:'assets/shirt.jpg'},
   { id: 6, name: ' T-Shirt', price: 24.99, image: 'assets/t-shirt.jpg', alt: 'Polo T-Shirt' },
+//   { id: 7, name: ' Panjabi's', price: 39.99, image: 'assets/panjabi.jpg'},
 ];
 
 // Reference to DOM elements
